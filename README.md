@@ -1,3 +1,26 @@
+## random_numbers (melodic) - 0.3.2-2
+
+The packages in the `random_numbers` repository were released into the `melodic` distro by running `/home/steven/osrf/venv/bloom-dev/bin/bloom-release -d -r melodic random_numbers --override-release-repository-url git@github.com:nuclearsandwich/random_numbers-release` on `Thu, 10 Jan 2019 17:03:54 -0000`
+
+The `random_numbers` package was released.
+
+Version of package(s) in repository `random_numbers`:
+
+- upstream repository: https://github.com/ros-planning/random_numbers
+- release repository: https://github.com/ros-gbp/random_numbers-release.git
+- rosdistro version: `0.3.2-0`
+- old version: `0.3.2-1`
+- new version: `0.3.2-2`
+
+Versions of tools used:
+
+- bloom version: `0.6.10rc0`
+- catkin_pkg version: `0.4.8`
+- rosdep version: `0.12.2`
+- rosdistro version: `0.7.0`
+- vcstools version: `0.1.40`
+
+
 ## random_numbers (melodic) - 0.3.2-1
 
 The packages in the `random_numbers` repository were released into the `melodic` distro by running `/home/steven/osrf/venv/bloom-py2-dev/bin/bloom-release --debug -r melodic random_numbers --override-release-repository-url git@github.com:nuclearsandwich/random_numbers-release.git` on `Wed, 07 Nov 2018 13:55:05 -0000`
