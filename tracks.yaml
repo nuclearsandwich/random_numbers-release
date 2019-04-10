@@ -183,7 +183,7 @@ tracks:
     last_version: 0.3.2
     name: upstream
     patches: null
-    release_inc: '6'
+    release_inc: '7'
     release_repo_url: git@github.com:ros-gbp/random_numbers-release
     release_tag: :{version}
     ros_distro: melodic
